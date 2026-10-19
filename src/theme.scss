@@ -1,0 +1,36 @@
+/* Generated from sites/aster-bloom/site.json. */
+:root {
+  --bg: #fbf8f3;
+  --bg-alt: #f3ebdf;
+  --surface: #ffffff;
+  --ink: #231c14;
+  --muted: #6d6152;
+  --line: #e8ddc9;
+  --accent: #8a5a2b;
+  --accent-strong: #6b4420;
+  --accent-ink: #ffffff;
+  --accent-soft: #f3e1c8;
+  --accent-on-dark: #e0b583;
+  --dark: #231c14;
+  --dark-ink: #fbf8f3;
+  --error: #b42318;
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'Nunito Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 50%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #231c14;
+  --topbar-line: #e8ddc9;
+  --product-fit: cover;
+  --product-bg: #fbf8f3;
+  --logo-bg: #f6f1e6;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
